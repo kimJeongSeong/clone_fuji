@@ -117,47 +117,47 @@
         <div class="slide_container">\r
       \r
           <div class="slide_item">\r
-          <img src="/02.jpg" alt="광고1" />\r
+          <img src="./02.jpg" alt="광고1" />\r
         <div class="slide_text">\r
           <h5>FUJIFILM X-t5</h5>\r
           <h1>PHOTOGRAPHY FIRST</h1>\r
         </div>\r
       </div>\r
 \r
-          <div class="slide_item"><img src="/03.png" alt="광고2" /></div>\r
+          <div class="slide_item"><img src="./03.png" alt="광고2" /></div>\r
         \r
-          <div class="slide_item"><img src="/04.jpg" alt="광고3" />\r
+          <div class="slide_item"><img src="./04.jpg" alt="광고3" />\r
           <div class="slide_text">\r
           <h5>X100VI</h5>\r
           <h1>The One and Only</h1>\r
         </div></div>\r
         \r
-          <div class="slide_item"><img src="/05.jpg" alt="광고4" />\r
+          <div class="slide_item"><img src="./05.jpg" alt="광고4" />\r
           <div class="slide_text">\r
           <h5>GFX100S II</h5>\r
           <h1>ULTIMATE FREEDOM</h1>\r
         </div></div>\r
-          <div class="slide_item"><img src="/06.jpg" alt="광고5" />\r
+          <div class="slide_item"><img src="./06.jpg" alt="광고5" />\r
           <div class="slide_text">\r
           <h5>X-T50</h5>\r
           <h1>My Experience, My Color</h1>\r
         </div></div>\r
-          <div class="slide_item"><img src="/07.jpg" alt="광고6" />\r
+          <div class="slide_item"><img src="./07.jpg" alt="광고6" />\r
           <div class="slide_text">\r
           <h5>X-M5</h5>\r
           <h1>Color Your Moment</h1>\r
         </div></div>\r
-          <div class="slide_item"><img src="/10.jpg" alt="광고7" />\r
+          <div class="slide_item"><img src="./10.jpg" alt="광고7" />\r
           <div class="slide_text">\r
           <h5>X-E5</h5>\r
           <h1>THE REFINED CLASSIC</h1>\r
         </div></div>\r
-          <div class="slide_item"><img src="/11.jpg" alt="광고8" />\r
+          <div class="slide_item"><img src="./11.jpg" alt="광고8" />\r
           <div class="slide_text">\r
           <h5>X HALF</h5>\r
           <h1>Half the Size, Twice the Story</h1>\r
         </div></div>\r
-          <div class="slide_item"><img src="/12.jpg" alt="광고9" />\r
+          <div class="slide_item"><img src="./12.jpg" alt="광고9" />\r
           <div class="slide_text">\r
           <h5>GFX100RF</h5>\r
           <h1>The One and Only</h1>\r
@@ -181,7 +181,7 @@
       </div>\r
       <div class="middle_right">\r
   <div class="middle_right_middle_img">\r
-    <img src="/32.jpg" alt="이벤트1" class="middle_right_img" />\r
+    <img src="./32.jpg" alt="이벤트1" class="middle_right_img" />\r
     <h6>PLAYWITH <span class="divider"></span> 2026.03.16-2026.03.29</h6>\r
     <h3>후지필름 코리아 글로벌 마일리지상 X 교토그라피 KG+</h3>\r
     <p>\r
@@ -191,7 +191,7 @@
   </div>\r
 \r
   <div class="middle_right_middle_img">\r
-    <img src="/31.jpg" alt="이벤트2" class="middle_right_img" />\r
+    <img src="./31.jpg" alt="이벤트2" class="middle_right_img" />\r
     <h6>PLAYWITH <span class="divider"></span> 2026.03.16-2026.03.23</h6>\r
     <h3>Z projector Showcase 2026</h3>\r
     <p>\r
@@ -200,12 +200,12 @@
   </div>\r
 \r
   <div class="middle_right_middle_img">\r
-    <img src="/29.jpg" alt="이벤트3" class="middle_right_img" />\r
+    <img src="./29.jpg" alt="이벤트3" class="middle_right_img" />\r
     <h6>PLAYWITH <span class="divider"></span> 2026.03.16-2026.03.20</h6>\r
     <h3>GFX100RF FRAGMENT EDITION</h3>\r
     <p>후지와라 히로시가 이끄는 "fragment design"과 콜라보레이션...</p>\r
     <div class="img_under">\r
-      <img src="/30.jpg" alt="제품" class="under_img_small" />\r
+      <img src="./30.jpg" alt="제품" class="under_img_small" />\r
       <div class="under_info">\r
         <span>CAMERA</span>\r
         <div class="under_info_button">\r
@@ -217,7 +217,7 @@
   </div>\r
 \r
   <div class="middle_right_middle_img">\r
-    <img src="/27.jpg" alt="이벤트4" class="middle_right_img" />\r
+    <img src="./27.jpg" alt="이벤트4" class="middle_right_img" />\r
     <h6>PLAYWITH <span class="divider"></span> 2026.03.03-2026.07.10</h6>\r
     <h3>[Your half, your story] X half</h3>\r
     <p>당신의 시작이 더 가까워질 수 있도록, X half를 새로운 가격으로...</p>\r
@@ -238,7 +238,7 @@
 <body>\r
   <div class="middle_second">\r
     <div class="MS MS_1">\r
-      <img src="/28.jpg" alt="상품 이미지" class="MS_img_tag" />\r
+      <img src="./28.jpg" alt="상품 이미지" class="MS_img_tag" />\r
       <h6>PROMOTION <span class="divider"></span> 2026.03.01-2026.03.31</h6>\r
       <h3>후지필름 홈페이지&파티클&에비뉴엘점&HOP서울 3월 이벤트</h3>\r
       <p>\r
@@ -247,7 +247,7 @@
       </p>\r
     </div>\r
     <div class="MS MS_2">\r
-      <img src="/26.jpg" alt="상품 이미지" class="MS_img_tag" />\r
+      <img src="./26.jpg" alt="상품 이미지" class="MS_img_tag" />\r
       <h6>PLAYWITH <span class="divider"></span> 2026.02.23-2026.03.22</h6>\r
       <h3>후지필름 포토페스타 2026 - 천개의 꿈 인터내셔널</h3>\r
       <p>\r
@@ -257,7 +257,7 @@
       </p>\r
     </div>\r
     <div class="MS MS_3">\r
-      <img src="/21.jpg" alt="상품 이미지" class="MS_img_tag" />\r
+      <img src="./21.jpg" alt="상품 이미지" class="MS_img_tag" />\r
       <h3>이해력 문해력+</h3>\r
       <p>\r
         좋은 사진을 만들기 위해 꼭 필요한 기초 이론과 각종 사례들을 함께\r
@@ -311,7 +311,7 @@
       </div>\r
     </div>\r
     <div class="MS MS_4">\r
-      <img src="/20.jpg" alt="상품 이미지" class="MS_img_tag" />\r
+      <img src="./20.jpg" alt="상품 이미지" class="MS_img_tag" />\r
       <h6>PROGRAM <span class="divider"></span> 2026.02.20-2026.03.19</h6>\r
       <h3>나만의 필름레시피 만들기</h3>\r
       <p>\r
@@ -321,7 +321,7 @@
       </p>\r
     </div>\r
     <div class="MS MS_5">\r
-      <img src="/18.jpg" alt="상품 이미지" class="MS_img_tag" />\r
+      <img src="./18.jpg" alt="상품 이미지" class="MS_img_tag" />\r
       <h3>[포토북 큐레이션] 도시를 만드는 풍경들</h3>\r
       <p>\r
         오늘 우리가 모두 살아가고 있는 도시의 의미를, 내일 살아가고 싶은\r
@@ -329,7 +329,7 @@
       </p>\r
     </div>\r
     <div class="MS MS_6">\r
-      <img src="/17.jpg" alt="상품 이미지" class="MS_img_tag" />\r
+      <img src="./17.jpg" alt="상품 이미지" class="MS_img_tag" />\r
       <h6>PROMOTION <span class="divider"></span> 2026.02.12-</h6>\r
       <h3>후지필름 2026년 행운복권</h3>\r
       <p>\r
@@ -338,7 +338,7 @@
       </p>\r
     </div>\r
     <div class="MS MS_7">\r
-      <img src="/15.jpg" alt="상품 이미지" class="MS_img_tag" />\r
+      <img src="./15.jpg" alt="상품 이미지" class="MS_img_tag" />\r
       <h6>EXHIBITION <span class="divider"></span> 2026.02.06-2026.03.22</h6>\r
       <h3>Characters : Familiar Faces</h3>\r
       <p>\r
@@ -350,7 +350,7 @@
       </p>\r
     </div>\r
     <div class="MS MS_8">\r
-      <img src="/16.jpg" alt="상품 이미지" class="MS_img_tag" />\r
+      <img src="./16.jpg" alt="상품 이미지" class="MS_img_tag" />\r
       <h6>PLAYWITH <span class="divider"></span> 2026.02.09-</h6>\r
       <h3>새해 복 한 잔 나눔 EVENT</h3>\r
       <p>\r
@@ -359,7 +359,7 @@
       </p>\r
     </div>\r
     <div class="MS MS_9">\r
-      <img src="/13.jpg" alt="상품 이미지" class="MS_img_tag" />\r
+      <img src="./13.jpg" alt="상품 이미지" class="MS_img_tag" />\r
       <h6>PROMOTION <span class="divider"></span> 2025.12.11-2026.03.31</h6>\r
       <h3>[Ready for Filmmaking] GFX ETERNA 55</h3>\r
       <p>\r
@@ -381,7 +381,7 @@
       </div>\r
     </div>\r
     <div class="MS MS_10">\r
-      <img src="/08.jpg" alt="상품 이미지" class="MS_img_tag" />\r
+      <img src="./08.jpg" alt="상품 이미지" class="MS_img_tag" />\r
       <h3>후지필름 클래식 넥스트랩</h3>\r
       <p>\r
         카메라 무게의 부담을 덜어줄 어깨 패드와 견고한 손바느질로 완성되는\r
@@ -389,7 +389,7 @@
       </p>\r
     </div>\r
     <div class="MS MS_11">\r
-      <img src="/09.jpg" alt="상품 이미지" class="MS_img_tag" />\r
+      <img src="./09.jpg" alt="상품 이미지" class="MS_img_tag" />\r
       <div class="MS_text">\r
         <h5>일상과 촬영, 경계를 넘나드는 컴팩트한 스타일</h5>\r
         <h1>후지필름 <br class="pc_only" />데일리 카메라백</h1>\r
@@ -437,8 +437,8 @@
       </div>\r
 \r
       <div class="bottom_content right_box">\r
-        <img src="/slogan-1.png" alt="로고" class="bottom_logo_1">\r
-        <img src="/slogan-2.png" alt="로고" class="bottom_logo_2">\r
+        <img src="./slogan-1.png" alt="로고" class="bottom_logo_1">\r
+        <img src="./slogan-2.png" alt="로고" class="bottom_logo_2">\r
       </div>\r
     </div>\r
   </div>\r
@@ -458,7 +458,7 @@
   <div class="footer">\r
     <div class="footer_logo">\r
       <figure>\r
-        <img src="/logo.png" />\r
+        <img src="./logo.png" />\r
       </figure>\r
     </div>\r
     <div class="footer_middle">\r
@@ -494,7 +494,7 @@
       <h1>1577-4793</h1>\r
       <p>평일 09:00 - 18:00 / 토요일, 일요일 및 공휴일 휴무</p>\r
       <div class="contact_sns">\r
-        <a href="#"><img src="/icon.png" /></a>\r
+        <a href="#"><img src="./icon.png" /></a>\r
         <a href="#"><i class="fa-brands fa-instagram"></i></a>\r
         <a href="#"><i class="fa-brands fa-youtube"></i></a>\r
         <a href="#"><i class="fa-brands fa-facebook-f"></i></a>\r
